@@ -39,8 +39,13 @@
 
 
 ### Day 2
-- Ingest input documents
 - Prompt Engineering: customize your LLM
+- Retrieval Augmented Generation (RAG) pattern
+    - Ingest input documents
+    - Ingest data from APIs
+    - Query data
+    - SemanticKernel
+    - Langchain
 - Intro to CosmosDB 
     - Storing results in DB and excel
 - Azure deployment platforms
@@ -50,7 +55,6 @@
 ### Day 3:
 - Chat application
 - LLMOps with Promptflow
-- Semantic kernel 
 - Best practices for building AI Apps
     - Identities in Azure
     - Secret management with Key Vault
