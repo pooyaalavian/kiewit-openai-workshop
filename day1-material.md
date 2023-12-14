@@ -20,6 +20,9 @@ In the subscription, you must have enough access to create resources.
     - Take note of endpoint and key in `.env` file.
 4. In your resource group, deploy an instance of Azure AI Search.
     - Take note of endpoint and admin key in `.env` file.
+5. In your resource group, deploy a storage account.
+    - Once provisioned, create a blob container in your account.
+    - Take note of storage account name and container name in `.env` file.
 
 ## Notebook 1
 In this notebook you familiarize yourself with Azure OpenAI.

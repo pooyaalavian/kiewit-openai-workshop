@@ -6,7 +6,7 @@
 - Intro to Azure AI portfolio
 - Understanding the problem
 - Proposed architectures
-- Deep dive: OpenAI 
+- Quick Intro: OpenAI 
     - OpenAI offerings
         - GPT family
         - Dall-e
@@ -16,13 +16,13 @@
         - Playground
         - Rest API
         - Python Package
-- Deep dive: Document intelligence
+- Quick Intro: Document intelligence
     - Prebuilt vs. custom
     - Interacting with Document Intelligence
         - Studio
         - Rest API
         - Python
-- Deep dive: AI Search
+- Quick Intro: AI Search
     - Concepts
         - Index
         - Indexer, Skillset
@@ -32,10 +32,6 @@
         - Studio
         - Rest API
         - Python
-- Notebooks: 1,2,3
-- Best practices:
-    - data storage
-    - logging
 
 
 ### Day 2
@@ -46,19 +42,26 @@
     - Query data
     - SemanticKernel
     - Langchain
-- Intro to CosmosDB 
-    - Storing results in DB and excel
-- Azure deployment platforms
+- Notebooks 1,2,3,4,...
+- Chunking strategies and indexing
+
+<!-- - Azure deployment platforms
     - App service
     - Azure function and hosting
+- Intro to CosmosDB 
+    - Storing results in DB and excel -->
+
 
 ### Day 3:
+- Notebooks 5,...
 - Chat application
 - LLMOps with Promptflow
 - Best practices for building AI Apps
+    - Chunking strategies
     - Identities in Azure
     - Secret management with Key Vault
     - Access Control
     - Logging with Application Insight
     - API Management with APIM
     - Feedback collection
+    - CI/CD and automation
