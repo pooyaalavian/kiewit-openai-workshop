@@ -27,3 +27,5 @@ In the subscription, you must have enough access to create resources.
 ## Notebook 1
 In this notebook you familiarize yourself with Azure OpenAI.
 Please go through [the notebook](./101-deep-dive-openai.ipynb).
+
+More info below...
